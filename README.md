@@ -1,4 +1,4 @@
-# Aefera OS - Advanced ESP8266 Cyberpunk Operating System
+# Aefera OS - Os buatan Afra aigo
 
 ![Aefera OS](https://img.shields.io/badge/Aefera_OS-Cyberpunk-blueviolet?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-ESP8266-blue?style=for-the-badge)
